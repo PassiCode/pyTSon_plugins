@@ -1,2 +1,2 @@
 # pyTSon_plugins
-Some plugins I use in pyTSon
+Some plugins I use in pyTSon.
